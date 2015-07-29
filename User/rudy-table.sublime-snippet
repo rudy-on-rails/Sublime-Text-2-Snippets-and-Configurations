@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<table> 
+	<thead>
+		<tr>
+			<th>${1:header1}</th>
+			<th>${2:header2}</th>
+			<th>${3:header3}</th>
+			<th>${4:header4}</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>${5:body1}</td>
+			<td>${6:body2}</td>
+			<td>${7:body3}</td>
+			<td>${8:body4}</td>
+		</tr>
+	</tbody>
+</table>
+]]></content>	
+	<tabTrigger>table</tabTrigger>	
+</snippet>

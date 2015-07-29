@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"HTML Snippets",
+		"HTMLAttributes",
+		"Package Control",
+		"Quick File Move",
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"SummitLinter",
+		"WordHighlight"
+	]
+}

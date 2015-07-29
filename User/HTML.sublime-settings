@@ -1,0 +1,8 @@
+{
+	"extensions":
+	[
+		"handlebars",
+		"erb",
+		"mst"
+	]
+}

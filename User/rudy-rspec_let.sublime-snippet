@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[
+let(:${1:member_name}){ ${2:behavior} }]]></content> 
+  <tabTrigger>let</tabTrigger> 
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+it "${1:Case Test Description}"
+]]></content>	
+	<tabTrigger>it</tabTrigger>	
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+context "${1:The Test Context}" do
+  ${2:}
+end
+]]></content> 
+  <tabTrigger>context</tabTrigger> 
+</snippet>

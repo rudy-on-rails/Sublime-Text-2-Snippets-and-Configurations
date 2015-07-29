@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+_.each(${1:collection}, function(${2:item}){
+  ${3:content}
+});
+]]></content>
+  <tabTrigger>each</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

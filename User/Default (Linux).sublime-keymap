@@ -1,0 +1,11 @@
+[
+	{
+    "keys": ["ctrl+,"],  
+    "command": "insert_snippet", 
+    "args": {"name": "Packages/User/rudy-ruby.sublime-snippet"} 
+  },
+  { "keys": ["ctrl+shift+r"], "command": "quick_file_move" },
+  { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+  { "keys": ["ctrl+;"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["ctrl+shift+;"], "command": "toggle_comment", "args": { "block": true } }
+]

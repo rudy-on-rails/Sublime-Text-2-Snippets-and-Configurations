@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+describe "#${1:Method Name}" do
+	${2:}
+end
+]]></content>	
+	<tabTrigger>desc</tabTrigger>	
+</snippet>
