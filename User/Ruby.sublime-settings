@@ -2,5 +2,6 @@
 	"extensions":
 	[
 		"Vagrantfile"
-	]
+	],
+  "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
 }

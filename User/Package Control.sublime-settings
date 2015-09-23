@@ -1,9 +1,12 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
+		"CoffeeScriptHaml",
 		"ColorPicker",
 		"Git",
 		"GitGutter",
@@ -12,6 +15,8 @@
 		"HTMLAttributes",
 		"Package Control",
 		"Quick File Move",
+		"RSpec",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-ruby",
 		"SummitLinter",

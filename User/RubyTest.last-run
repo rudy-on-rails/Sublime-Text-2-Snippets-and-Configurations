@@ -1,4 +1,5 @@
 {
 	"last_test_file": "/models/kpi_spec.rb",
-	"last_test_run": "cd /Users/rudyseidinger/projetos/vale_coleta_kpi/ && rspec spec/models/kpi_spec.rb"
+	"last_test_run": "rspec spec/lib/mongo_models/checkout_system/product_configurations/link_express_digital_configuration_spec.rb",
+	"last_test_working_dir": "/home/rudyseidinger/projects/zappistore.app"
 }
